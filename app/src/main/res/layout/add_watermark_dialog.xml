@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:picker="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/sarabunregular"
+        android:text="@string/enter_watermark_text"
+        android:textSize="20sp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/watermarkText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:padding="5dp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/sarabunregular"
+        android:text="@string/enter_watermark_angle"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/watermarkAngle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/watermark_angle"
+        android:fontFamily="@font/sarabunregular"
+        android:inputType="number" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_watermark_color"
+        android:fontFamily="@font/sarabunregular"
+        android:textSize="20sp" />
+
+    <!--color picker-->
+    <com.github.danielnilsson9.colorpickerview.view.ColorPickerView
+        android:id="@+id/watermarkColor"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        picker:alphaChannelVisible="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_watermark_font_size"
+        android:fontFamily="@font/sarabunregular"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/watermarkFontSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/sarabunregular"
+        android:hint="@string/watermark_font_size"
+        android:inputType="number" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:fontFamily="@font/sarabunregular"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_watermark_font_family"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/watermarkFontFamily"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:spinnerMode="dropdown" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_watermark_style"
+        android:fontFamily="@font/sarabunregular"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/watermarkStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:spinnerMode="dropdown" />
+
+
+</LinearLayout>

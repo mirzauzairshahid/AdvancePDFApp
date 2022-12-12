@@ -1,0 +1,115 @@
+{
+  "data": [
+
+    {
+      "title": "Favourites Section",
+      "content": "You can now add your favourite features & get easy access to those.",
+      "icon": "ic_call_split_black_24dp"
+    },
+
+    {
+      "title": "View History",
+      "content": "Enhanced filters to view your history conversions",
+      "icon": "ic_history_black_24dp"
+    },
+
+
+    {
+      "title": "Excel to PDF",
+      "content": "You can now convert your excel files to PDF too!",
+      "icon": "ic_excel"
+    },
+
+    {
+      "title": "Zip to PDF",
+      "content": "You can now convert your images zip files to PDF too!",
+      "icon": "ic_broken_image_black_24dp"
+    }
+
+  ],
+  "old_data": {
+    "version_code": [
+    ],
+
+    "84": [
+
+      {
+        "title": "Invert PDF",
+        "content": "New feature to invert PDF colors",
+        "icon": "ic_invert_color_24dp"
+      },
+
+      {
+        "title": "Split PDF",
+        "content": "Added More ways to split PDF",
+        "icon": "ic_call_split_black_24dp"
+      },
+
+      {
+        "title": "Fixed Crashes",
+        "content": "Fixed crashes & PDF conversion performance",
+        "icon": ""
+      }
+
+    ],
+
+    "83" : [
+      {
+        "title": "Remove duplicate pages",
+        "content": "New feature: remove duplicate pages from PDF.",
+        "icon": "ic_remove_circle_black_24dp"
+      }
+
+    ],
+    "80" : [
+      {
+        "title": "Reorder PDF pages",
+        "content": "Fixed errors in Reorder and Remove PDF pages.",
+        "icon": ""
+      }
+    ],
+    "79" : [
+      {
+        "title": "Modify Existing PDF",
+        "content": "Add images to existing PDF",
+        "icon": "ic_add_black_24dp"
+      },
+      {
+        "title": "Rearrange images while creating PDF",
+        "content": "Now, you can easily sort images while creating PDF using images",
+        "icon": "ic_text_format_black_24dp"
+      }
+    ],
+
+    "74" : [
+      {
+        "title": "Merge PDF",
+        "content": "Easily select multiple PDF at once to merge",
+        "icon": "ic_merge_type_black_24dp"
+      },
+      {
+        "title": "Access doc & docx files",
+        "content": "Now, you can convert doc & docx files also to PDF",
+        "icon": "ic_text_format_black_24dp"
+      }
+    ],
+
+    "72": [
+      {
+        "title": "Add watermark",
+        "content": "Now add watermark to PDFs while creating, or on created PDFs",
+        "icon": "ic_branding_watermark_black_24dp"
+      },
+      {
+        "title": "Adding or removing password made easy",
+        "content": "Now, easily add or remove password from the navigation drawer on left",
+        "icon": "ic_lock_open_black_24dp"
+      },
+      {
+        "title": "Set master password yourself",
+        "content": "Go to settings -> you can change master password too :)",
+        "icon": "ic_lock_black_24dp"
+      }
+    ]
+  }
+}

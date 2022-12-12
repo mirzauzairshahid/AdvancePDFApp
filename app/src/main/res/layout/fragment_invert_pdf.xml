@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:stretchColumns="*"
+        tools:context=".fragment.AddImagesFragment">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/invert_pdf_info"
+            android:textSize="15sp"
+            android:fontFamily="@font/sarabunbold"
+            android:textStyle="bold" />
+
+        <com.dd.morphingbutton.MorphingButton
+            android:id="@+id/selectFile"
+            style="@style/MorphingButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="24dp"
+            android:maxWidth="30dp"
+            android:padding="3dip"
+            android:text="@string/merge_file_select"
+            android:fontFamily="@font/sarabunregular"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.dd.morphingbutton.MorphingButton
+            android:id="@+id/invert"
+            style="@style/MorphingButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="24dp"
+            android:text="@string/invert_pdf_title"
+            android:fontFamily="@font/sarabunregular"
+            app:layout_constraintBottom_toTopOf="@id/recyclerView"
+            app:layout_constraintTop_toBottomOf="@id/textView" />
+
+        <Button
+            android:id="@+id/view_pdf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="@color/mb_green"
+            android:fontFamily="@font/sarabunregular"
+            android:text="@string/view_pdf"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+    <include layout="@layout/bottom_sheet" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

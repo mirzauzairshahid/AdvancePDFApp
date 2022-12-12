@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Advance PDF App\\Advance PDF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\intel\\.gradle\\caches\\transforms-2\\files-2.1\\6b767960654a81b531f2e261fa9bd2d5\\color-picker-view-1.4.0\\res\\values-sw400dp\\values-sw400dp.xml",
+                    "from": {
+                        "startLines": "4,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "192,262,469",
+                        "endLines": "4,5,11",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "257,326,652"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,194",
+                        "endLines": "2,3,7",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "120,189,377"
+                    }
+                }
+            ]
+        }
+    ]
+}

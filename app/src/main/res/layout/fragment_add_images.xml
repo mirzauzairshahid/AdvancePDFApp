@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:stretchColumns="*"
+        tools:context=".fragment.AddImagesFragment">
+
+        <com.dd.morphingbutton.MorphingButton
+            android:id="@+id/selectFile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxWidth="30dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="24dp"
+            android:fontFamily="@font/sarabunregular"
+            style="@style/MorphingButton"
+            android:text="@string/merge_file_select"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="24dp"
+            android:fontFamily="@font/sarabunregular"
+            android:gravity="center_horizontal"
+            android:text="@string/selected_images_text" />
+
+        <com.dd.morphingbutton.MorphingButton
+            android:id="@+id/pdfCreate"
+            style="@style/MorphingButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="24dp"
+            android:layout_marginTop="15dp"
+            android:maxWidth="30dp"
+            android:padding="3dip"
+            android:fontFamily="@font/sarabunregular"
+            android:text="@string/create_pdf" />
+
+        <com.dd.morphingbutton.MorphingButton
+            android:id="@+id/addImages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="24dp"
+            android:layout_marginTop="15dp"
+            android:maxWidth="30dp"
+            android:padding="3dip"
+            android:fontFamily="@font/sarabunregular"
+            style="@style/MorphingButton"
+            android:text="@string/add_images"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvNoOfImages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="8dp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+    <include layout="@layout/bottom_sheet" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

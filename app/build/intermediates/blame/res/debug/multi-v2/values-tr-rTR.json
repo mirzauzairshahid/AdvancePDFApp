@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Advance PDF App\\Advance PDF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr-rTR\\values-tr-rTR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\intel\\.gradle\\caches\\transforms-2\\files-2.1\\9a87af22f0fd4e52b3ea78824ee99716\\matisse-0.5.3-beta3\\res\\values-tr-rTR\\values-tr-rTR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,162,218,263,307,360,415,485,595,683,774,835,931,992",
+                        "endColumns": "52,53,55,44,43,52,54,69,109,87,90,60,95,60,53",
+                        "endOffsets": "103,157,213,258,302,355,410,480,590,678,769,830,926,987,1041"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,608 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c537888c892c4c4eb87b41b315f63ff0\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1ae961acc34cb726452e98bcb316c8f4\preference-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.dmytrodanylyk:android-morphing-button:98a4986e56] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cefb8ccab9204906826a97a6e8157aa9\jetified-android-morphing-button-98a4986e56\AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fc2ceeb6a530cd7c166d2c9d9e1d0b1a\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e5299872ab9b235e4fb6078ba65c9d3c\jetified-lottie-2.5.5\AndroidManifest.xml:2:1-13:12
+MERGED from [ja.burhanrashid52:photoeditor:0.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\45df77303ac1ffc74b66147c8e576fa7\jetified-photoeditor-0.2.1\AndroidManifest.xml:2:1-16:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\81e9f2aaf5ca9e9a305c37cd6daf4200\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:17:1-33:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5e5856e81660bf4d93649003a613d190\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e6816db619420576b99958821cd5db1e\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\381c98454c43137c1a43708033f76076\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\92ce2bfa37d2a59dc048c6c589f6da20\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d08e6422c18e274241cabb99301b3aaf\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\77fd573de6d0b84bcfd315d7816a83aa\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f5b79ba5fa60068e8f10bcac16651e8\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9928268f41f05c8a57e58c234c9725c1\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\52e1d4e267c92e72dd5222f5d25a9923\jetified-play-services-ads-19.4.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b5dca569a51bda1c10ed0eda9e549553\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6c1c5d6d39fad550b5f02d663d115d3f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cdc31ce108929215dd0d2179a5a460b0\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e0a026e0a26770b53ac2c8bd21d80a8\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d34e8bb82d00588565f84240d5b1e94c\play-services-gass-19.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\455f25cef3e4b57f5d3f724a90478514\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\bf9e7699464543686438838fd742fe56\play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\20cbc4df9b21028f34edfdfe8c0506ea\play-services-measurement-base-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1a5428d237d07bcfdedf620c73df0124\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c8e7366b138e625a37c8419735c55d64\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5f781a56935ac595e2db0b16089d7d74\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b9e6447e20c1b8f0f28c5da8a9852d42\room-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\3d0b68c9aef54137afbeffd6e9b11c07\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b678594cdd12607b9ac123593d7901c5\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\4930143124ae3462311525eac0886af3\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\83bdd7ddc2ed362acccbf51cb1072400\sqlite-framework-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\091a3843203b9e64eb3788eb8821e507\sqlite-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c80b6121ec7c1419dc0e184943effcb7\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5d44fb8ec4cd1f3d7ea8b5629be7d86d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\dbe73f0492e05b855a1307671d6eee4b\butterknife-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c1b34380acfc74ee8f268dc6bd196823\butterknife-runtime-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2047bb4aed1a2c9d2cd67e29e96eb8fb\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fea89fad1f5fd5468463bd3190e2531c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e6c1bb4e8d57f0e90b456ff775af5459\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b1256f9566807b581e5bc600acedbb0c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\90a8694419b517c6090f95144353da40\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\71bf62fc098698ba837dfe520b6765b6\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\f75e098880341e3cc21e19a565ecfdeb\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d70b3f202d44c584ab1a8a171887dfcf\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91b597f0a8a04594e5662d62d0433f9e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1c114df0c5c09c9ae58b02b0e98e637c\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e2504f39dd44e248b4d4a4f430e4151\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9f60d39686d0d97e34de81dbafd85045\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91a48b23358053b28270b4789f0f9db3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d9978c7c5449e7386482c224266f0945\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\27067eab390a87f0bab86d94c7e325b9\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91821370d2d3584da73fee4e54b699db\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\906cc0d479f3ef364ffb5f184fb6790a\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\58326be9ff256f90f9816135b9d56322\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\66374d3e5bae1d1fba9ce7a2f56b6f99\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b454920d4cc6f2470ab5c845fc0f981f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\f69f9b2a547bfa9765e1279d4c09ce2f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fdbf4ae63cdf7f7d519114f970be9395\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\08bd61370cf8db60c3bf11aca0f7011d\material-ripple-1.0.2\AndroidManifest.xml:2:1-14:12
+MERGED from [jp.wasabeef:picasso-transformations:2.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\abaaf52625b0bd0e576740f232333f63\jetified-picasso-transformations-2.2.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\60ccf3354e017ca46facf9e695f65946\jetified-android-viewpager-transformers-1.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:2:1-20:12
+MERGED from [com.github.danielnilsson9:color-picker-view:1.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6b767960654a81b531f2e261fa9bd2d5\color-picker-view-1.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6060655cd574151fa250d7c85bf93f1f\library-1.0.4\AndroidManifest.xml:1:106-7:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f594a80b8821d36b1d9d0010466253f\play-services-ads-base-19.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\071b04067b4e1813be59e718d0d69cf3\library-1.0.2\AndroidManifest.xml:1:116-8:12
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:4:5-26
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:24:5-81
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:25:5-80
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:7:22-77
+uses-feature#android.hardware.camera
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:9:5-60
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:10:5-12:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:11:9-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:14:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:14:22-62
+application
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:16:5-87:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c537888c892c4c4eb87b41b315f63ff0\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c537888c892c4c4eb87b41b315f63ff0\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.dmytrodanylyk:android-morphing-button:98a4986e56] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cefb8ccab9204906826a97a6e8157aa9\jetified-android-morphing-button-98a4986e56\AndroidManifest.xml:12:5-20
+MERGED from [com.github.dmytrodanylyk:android-morphing-button:98a4986e56] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cefb8ccab9204906826a97a6e8157aa9\jetified-android-morphing-button-98a4986e56\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fc2ceeb6a530cd7c166d2c9d9e1d0b1a\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fc2ceeb6a530cd7c166d2c9d9e1d0b1a\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e5299872ab9b235e4fb6078ba65c9d3c\jetified-lottie-2.5.5\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e5299872ab9b235e4fb6078ba65c9d3c\jetified-lottie-2.5.5\AndroidManifest.xml:11:5-20
+MERGED from [ja.burhanrashid52:photoeditor:0.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\45df77303ac1ffc74b66147c8e576fa7\jetified-photoeditor-0.2.1\AndroidManifest.xml:11:5-14:38
+MERGED from [ja.burhanrashid52:photoeditor:0.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\45df77303ac1ffc74b66147c8e576fa7\jetified-photoeditor-0.2.1\AndroidManifest.xml:11:5-14:38
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:27:5-31:19
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:27:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d08e6422c18e274241cabb99301b3aaf\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d08e6422c18e274241cabb99301b3aaf\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e0a026e0a26770b53ac2c8bd21d80a8\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e0a026e0a26770b53ac2c8bd21d80a8\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:14:5-25:19
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:14:5-25:19
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d34e8bb82d00588565f84240d5b1e94c\play-services-gass-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d34e8bb82d00588565f84240d5b1e94c\play-services-gass-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\455f25cef3e4b57f5d3f724a90478514\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\455f25cef3e4b57f5d3f724a90478514\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\bf9e7699464543686438838fd742fe56\play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\bf9e7699464543686438838fd742fe56\play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\20cbc4df9b21028f34edfdfe8c0506ea\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\20cbc4df9b21028f34edfdfe8c0506ea\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5d44fb8ec4cd1f3d7ea8b5629be7d86d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5d44fb8ec4cd1f3d7ea8b5629be7d86d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e2504f39dd44e248b4d4a4f430e4151\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e2504f39dd44e248b4d4a4f430e4151\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9f60d39686d0d97e34de81dbafd85045\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9f60d39686d0d97e34de81dbafd85045\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\08bd61370cf8db60c3bf11aca0f7011d\material-ripple-1.0.2\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\08bd61370cf8db60c3bf11aca0f7011d\material-ripple-1.0.2\AndroidManifest.xml:12:5-20
+MERGED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:11:5-18:19
+MERGED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:11:5-18:19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6060655cd574151fa250d7c85bf93f1f\library-1.0.4\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6060655cd574151fa250d7c85bf93f1f\library-1.0.4\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f594a80b8821d36b1d9d0010466253f\play-services-ads-base-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f594a80b8821d36b1d9d0010466253f\play-services-ads-base-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\071b04067b4e1813be59e718d0d69cf3\library-1.0.2\AndroidManifest.xml:5:5-6:19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\071b04067b4e1813be59e718d0d69cf3\library-1.0.2\AndroidManifest.xml:5:5-6:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:25:9-52
+	tools:ignore
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:28:9-59
+	android:roundIcon
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:23:9-56
+	android:largeHeap
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:24:9-33
+	android:icon
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:21:9-42
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e2504f39dd44e248b4d4a4f430e4151\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:22:9-41
+	android:hardwareAccelerated
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:20:9-43
+	android:fullBackupContent
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:19:9-59
+	tools:targetApi
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:30:9-28
+	android:allowBackup
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:27:9-45
+	android:dataExtractionRules
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:17:9-44
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:32:9-34:51
+	android:value
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:33:13-69
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:36:9-38:59
+	android:theme
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:37:13-76
+activity#pdf.pdftool.activity.MainActivity
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:39:9-66:20
+	android:screenOrientation
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:41:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:43:13-52
+	android:exported
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:40:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:48:27-74
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:52:25-75
+category#android.intent.category.DEFAULT
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:53:27-73
+data
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:54:17-52
+	android:mimeType
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:54:23-49
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.SEND
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:58:25-66
+meta-data#android.app.shortcuts
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:63:13-65:53
+	android:resource
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:65:17-50
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:64:17-53
+activity#pdf.pdftool.activity.CropImageActivity
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:67:9-75
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:67:19-72
+provider#androidx.core.content.FileProvider
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:69:9-77:20
+	android:grantUriPermissions
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:73:13-47
+	android:authorities
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:71:13-50
+	android:exported
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:70:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:74:13-76:58
+	android:resource
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:76:17-55
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:75:17-67
+activity#pdf.pdftool.activity.WelcomeActivity
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:79:9-73
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:79:19-70
+activity#pdf.pdftool.activity.ImageEditor
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:80:9-69
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:80:19-66
+activity#pdf.pdftool.activity.PreviewActivity
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:81:9-73
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:81:19-70
+activity#pdf.pdftool.activity.RearrangeImages
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:82:9-73
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:82:19-70
+activity#pdf.pdftool.activity.ImagesPreviewActivity
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:83:9-79
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:83:19-76
+activity#pdf.pdftool.activity.RearrangePdfPages
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:84:9-75
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:84:19-72
+activity#pdf.pdftool.activity.FavouritesActivity
+ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:85:9-75
+	android:name
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml:85:19-73
+uses-sdk
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c537888c892c4c4eb87b41b315f63ff0\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c537888c892c4c4eb87b41b315f63ff0\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1ae961acc34cb726452e98bcb316c8f4\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1ae961acc34cb726452e98bcb316c8f4\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.dmytrodanylyk:android-morphing-button:98a4986e56] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cefb8ccab9204906826a97a6e8157aa9\jetified-android-morphing-button-98a4986e56\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dmytrodanylyk:android-morphing-button:98a4986e56] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cefb8ccab9204906826a97a6e8157aa9\jetified-android-morphing-button-98a4986e56\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fc2ceeb6a530cd7c166d2c9d9e1d0b1a\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fc2ceeb6a530cd7c166d2c9d9e1d0b1a\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e5299872ab9b235e4fb6078ba65c9d3c\jetified-lottie-2.5.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e5299872ab9b235e4fb6078ba65c9d3c\jetified-lottie-2.5.5\AndroidManifest.xml:7:5-9:41
+MERGED from [ja.burhanrashid52:photoeditor:0.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\45df77303ac1ffc74b66147c8e576fa7\jetified-photoeditor-0.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [ja.burhanrashid52:photoeditor:0.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\45df77303ac1ffc74b66147c8e576fa7\jetified-photoeditor-0.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\81e9f2aaf5ca9e9a305c37cd6daf4200\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\81e9f2aaf5ca9e9a305c37cd6daf4200\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:20:5-22:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5e5856e81660bf4d93649003a613d190\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5e5856e81660bf4d93649003a613d190\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e6816db619420576b99958821cd5db1e\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e6816db619420576b99958821cd5db1e\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\381c98454c43137c1a43708033f76076\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\381c98454c43137c1a43708033f76076\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\92ce2bfa37d2a59dc048c6c589f6da20\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\92ce2bfa37d2a59dc048c6c589f6da20\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d08e6422c18e274241cabb99301b3aaf\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d08e6422c18e274241cabb99301b3aaf\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\77fd573de6d0b84bcfd315d7816a83aa\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\77fd573de6d0b84bcfd315d7816a83aa\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f5b79ba5fa60068e8f10bcac16651e8\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f5b79ba5fa60068e8f10bcac16651e8\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:19:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9928268f41f05c8a57e58c234c9725c1\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9928268f41f05c8a57e58c234c9725c1\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\52e1d4e267c92e72dd5222f5d25a9923\jetified-play-services-ads-19.4.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\52e1d4e267c92e72dd5222f5d25a9923\jetified-play-services-ads-19.4.0\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b5dca569a51bda1c10ed0eda9e549553\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b5dca569a51bda1c10ed0eda9e549553\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6c1c5d6d39fad550b5f02d663d115d3f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6c1c5d6d39fad550b5f02d663d115d3f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cdc31ce108929215dd0d2179a5a460b0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\cdc31ce108929215dd0d2179a5a460b0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e0a026e0a26770b53ac2c8bd21d80a8\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e0a026e0a26770b53ac2c8bd21d80a8\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d34e8bb82d00588565f84240d5b1e94c\play-services-gass-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d34e8bb82d00588565f84240d5b1e94c\play-services-gass-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\455f25cef3e4b57f5d3f724a90478514\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\455f25cef3e4b57f5d3f724a90478514\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\bf9e7699464543686438838fd742fe56\play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\bf9e7699464543686438838fd742fe56\play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\20cbc4df9b21028f34edfdfe8c0506ea\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\20cbc4df9b21028f34edfdfe8c0506ea\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1a5428d237d07bcfdedf620c73df0124\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1a5428d237d07bcfdedf620c73df0124\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c8e7366b138e625a37c8419735c55d64\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c8e7366b138e625a37c8419735c55d64\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5f781a56935ac595e2db0b16089d7d74\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5f781a56935ac595e2db0b16089d7d74\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b9e6447e20c1b8f0f28c5da8a9852d42\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b9e6447e20c1b8f0f28c5da8a9852d42\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\3d0b68c9aef54137afbeffd6e9b11c07\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\3d0b68c9aef54137afbeffd6e9b11c07\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b678594cdd12607b9ac123593d7901c5\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b678594cdd12607b9ac123593d7901c5\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\4930143124ae3462311525eac0886af3\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\4930143124ae3462311525eac0886af3\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\83bdd7ddc2ed362acccbf51cb1072400\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\83bdd7ddc2ed362acccbf51cb1072400\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\091a3843203b9e64eb3788eb8821e507\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\091a3843203b9e64eb3788eb8821e507\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c80b6121ec7c1419dc0e184943effcb7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c80b6121ec7c1419dc0e184943effcb7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5d44fb8ec4cd1f3d7ea8b5629be7d86d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\5d44fb8ec4cd1f3d7ea8b5629be7d86d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\dbe73f0492e05b855a1307671d6eee4b\butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\dbe73f0492e05b855a1307671d6eee4b\butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c1b34380acfc74ee8f268dc6bd196823\butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\c1b34380acfc74ee8f268dc6bd196823\butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2047bb4aed1a2c9d2cd67e29e96eb8fb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2047bb4aed1a2c9d2cd67e29e96eb8fb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fea89fad1f5fd5468463bd3190e2531c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fea89fad1f5fd5468463bd3190e2531c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e6c1bb4e8d57f0e90b456ff775af5459\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\e6c1bb4e8d57f0e90b456ff775af5459\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b1256f9566807b581e5bc600acedbb0c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b1256f9566807b581e5bc600acedbb0c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\90a8694419b517c6090f95144353da40\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\90a8694419b517c6090f95144353da40\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\71bf62fc098698ba837dfe520b6765b6\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\71bf62fc098698ba837dfe520b6765b6\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\f75e098880341e3cc21e19a565ecfdeb\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\f75e098880341e3cc21e19a565ecfdeb\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d70b3f202d44c584ab1a8a171887dfcf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d70b3f202d44c584ab1a8a171887dfcf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91b597f0a8a04594e5662d62d0433f9e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91b597f0a8a04594e5662d62d0433f9e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1c114df0c5c09c9ae58b02b0e98e637c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\1c114df0c5c09c9ae58b02b0e98e637c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e2504f39dd44e248b4d4a4f430e4151\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6e2504f39dd44e248b4d4a4f430e4151\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9f60d39686d0d97e34de81dbafd85045\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9f60d39686d0d97e34de81dbafd85045\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91a48b23358053b28270b4789f0f9db3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91a48b23358053b28270b4789f0f9db3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d9978c7c5449e7386482c224266f0945\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d9978c7c5449e7386482c224266f0945\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\27067eab390a87f0bab86d94c7e325b9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\27067eab390a87f0bab86d94c7e325b9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91821370d2d3584da73fee4e54b699db\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\91821370d2d3584da73fee4e54b699db\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\906cc0d479f3ef364ffb5f184fb6790a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\906cc0d479f3ef364ffb5f184fb6790a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\58326be9ff256f90f9816135b9d56322\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\58326be9ff256f90f9816135b9d56322\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\66374d3e5bae1d1fba9ce7a2f56b6f99\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\66374d3e5bae1d1fba9ce7a2f56b6f99\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b454920d4cc6f2470ab5c845fc0f981f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b454920d4cc6f2470ab5c845fc0f981f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\f69f9b2a547bfa9765e1279d4c09ce2f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\f69f9b2a547bfa9765e1279d4c09ce2f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fdbf4ae63cdf7f7d519114f970be9395\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fdbf4ae63cdf7f7d519114f970be9395\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\08bd61370cf8db60c3bf11aca0f7011d\material-ripple-1.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\08bd61370cf8db60c3bf11aca0f7011d\material-ripple-1.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:picasso-transformations:2.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\abaaf52625b0bd0e576740f232333f63\jetified-picasso-transformations-2.2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:picasso-transformations:2.2.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\abaaf52625b0bd0e576740f232333f63\jetified-picasso-transformations-2.2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\60ccf3354e017ca46facf9e695f65946\jetified-android-viewpager-transformers-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\60ccf3354e017ca46facf9e695f65946\jetified-android-viewpager-transformers-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.danielnilsson9:color-picker-view:1.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6b767960654a81b531f2e261fa9bd2d5\color-picker-view-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.danielnilsson9:color-picker-view:1.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6b767960654a81b531f2e261fa9bd2d5\color-picker-view-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6060655cd574151fa250d7c85bf93f1f\library-1.0.4\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\6060655cd574151fa250d7c85bf93f1f\library-1.0.4\AndroidManifest.xml:3:5-72
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f594a80b8821d36b1d9d0010466253f\play-services-ads-base-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\8f594a80b8821d36b1d9d0010466253f\play-services-ads-base-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\071b04067b4e1813be59e718d0d69cf3\library-1.0.2\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\071b04067b4e1813be59e718d0d69cf3\library-1.0.2\AndroidManifest.xml:3:5-72
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\fc2ceeb6a530cd7c166d2c9d9e1d0b1a\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Advance PDF App\Advance PDF App\app\src\main\AndroidManifest.xml
+activity#com.zhihu.matisse.ui.MatisseActivity
+ADDED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:28:9-73
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:28:19-70
+activity#com.zhihu.matisse.internal.ui.AlbumPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:29:19-84
+activity#com.zhihu.matisse.internal.ui.SelectedPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:30:9-90
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.3-beta3] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:30:19-87
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\2bc9b589a4513c21fd1c6b1e0a3c4a68\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:12:22-76
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:16:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:21:9-24:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:23:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\b614e374b5a7396e7bb0e0092415921e\audience-network-sdk-5.11.0\AndroidManifest.xml:22:13-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:36:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\53a8df9cfa4021b617412bfa5d67459b\play-services-ads-lite-19.4.0\AndroidManifest.xml:42:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\0a00a2208d6cf1d742eafa19b4b44e8f\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\d2776c0d68e44ed40a26b98e35dcdd77\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+activity#lib.folderpicker.FolderPicker
+ADDED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:15:9-17:52
+	android:screenOrientation
+		ADDED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from [lib.kashif:folderpicker:2.4] C:\Users\intel\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:16:13-57

@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/page_num_opt1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sarabunregular"
+            android:text="@string/page_x_of_n"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/page_num_opt2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/page_x"
+            android:fontFamily="@font/sarabunregular"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/page_num_opt3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/x"
+            android:fontFamily="@font/sarabunregular"
+            android:textSize="18sp" />
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/set_as_default"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/radioGroup"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="126dp"
+        android:checked="false"
+        android:fontFamily="@font/sarabunregular"
+        android:text="@string/set_as_default"
+        android:textSize="18sp" />
+
+</RelativeLayout>
